@@ -1,0 +1,15 @@
+Look, here’s what you should do:
+
+Right now, when I scroll, the image is moving downward immediately.
+That should not happen.
+
+First, when I start scrolling, the `hero_banner_main` image should stay fixed and smoothly zoom in completely.
+Only after the zoom-in effect is completed should the page continue scrolling downward.
+
+Also, do not keep this image blurred. OK.
+Keep the image exactly as it is, clear and sharp.
+
+And create a new version of the image where the inner Gujarat map/design part should not have a background.
+Keep the outer area/background white.
+
+Only the Gujarat inner part should remain without a background. OK.
